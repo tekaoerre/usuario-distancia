@@ -32,7 +32,7 @@ public class Calculadora
      */
     public int sumar(int a, int b) 
     {
-        return a - b;
+        return a + b;
     }
     
     /**
@@ -44,6 +44,6 @@ public class Calculadora
      */
     public int restar(int a, int b) 
     {
-        return a + b;
+        return a - b;
     }
 }
